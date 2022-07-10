@@ -2,7 +2,7 @@
 
 
 ## Introduce
-- 🔭 I’m currently working on some visualization projects at Shen Zhen.
+- 🔭 I’m currently working on some visualization projects in Shenzhen.
 - 🌱 Learning React, TypeScript and node.js.
 
 ## Stats
